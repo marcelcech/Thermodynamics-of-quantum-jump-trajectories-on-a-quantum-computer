@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="112.464pt"
+   height="28.8pt"
+   viewBox="0 0 112.464 28.8"
+   version="1.1"
+   id="svg28259"
+   sodipodi:docname="full_trajectories_edited.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview28261"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="8.0425738"
+     inkscape:cx="74.975998"
+     inkscape:cy="19.148099"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="axes_1" />
+  <metadata
+     id="metadata28170">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>2022-12-19T11:53:45.256694</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Matplotlib v3.5.2, https://matplotlib.org/</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs28174">
+    <style
+       type="text/css"
+       id="style28172">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+  </defs>
+  <g
+     id="figure_1">
+    <g
+       id="patch_1">
+      <path
+         d="M 0 28.8  L 112.464 28.8  L 112.464 0  L 0 0  L 0 28.8  z "
+         style="fill: none"
+         id="path28176" />
+    </g>
+    <g
+       id="axes_1">
+      <g
+         id="g28833">
+        <g
+           id="patch_2">
+          <path
+             d="M 17.431335 19.85  L 105.264 19.85  L 105.264 7.2  L 17.431335 7.2  L 17.431335 19.85  z "
+             style="fill: none"
+             id="path28179" />
+        </g>
+        <g
+           id="matplotlib.axis_1">
+          <g
+             id="xtick_1">
+            <g
+               id="line2d_1">
+              <defs
+                 id="defs28183">
+                <path
+                   id="m009db494f7"
+                   d="M 0 1.75  L 0 -1.75  "
+                   style="stroke: #000000; stroke-width: 0.8" />
+              </defs>
+              <g
+                 id="g28187">
+                <use
+                   xlink:href="#m009db494f7"
+                   x="28.410418"
+                   y="19.85"
+                   style="stroke: #000000; stroke-width: 0.8"
+                   id="use28185" />
+              </g>
+            </g>
+          </g>
+          <g
+             id="xtick_2">
+            <g
+               id="line2d_2">
+              <g
+                 id="g28193">
+                <use
+                   xlink:href="#m009db494f7"
+                   x="50.368585"
+                   y="19.85"
+                   style="stroke: #000000; stroke-width: 0.8"
+                   id="use28191" />
+              </g>
+            </g>
+          </g>
+          <g
+             id="xtick_3">
+            <g
+               id="line2d_3">
+              <g
+                 id="g28199">
+                <use
+                   xlink:href="#m009db494f7"
+                   x="72.326751"
+                   y="19.85"
+                   style="stroke: #000000; stroke-width: 0.8"
+                   id="use28197" />
+              </g>
+            </g>
+          </g>
+          <g
+             id="xtick_4">
+            <g
+               id="line2d_4">
+              <g
+                 id="g28205">
+                <use
+                   xlink:href="#m009db494f7"
+                   x="94.284917"
+                   y="19.85"
+                   style="stroke: #000000; stroke-width: 0.8"
+                   id="use28203" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           id="LineCollection_1">
+          <path
+             d="M 28.410418 19.85  L 28.410418 10.814286  "
+             clip-path="url(#p7bc0d837ed)"
+             style="fill: none; stroke: #0000ff; stroke-width: 1.5"
+             id="path28228" />
+        </g>
+        <g
+           id="LineCollection_2">
+          <path
+             d="M 50.368585 19.85  L 50.368585 10.814286  "
+             clip-path="url(#p7bc0d837ed)"
+             style="fill: none; stroke: #0000ff; stroke-width: 1.5"
+             id="path28231" />
+        </g>
+        <g
+           id="LineCollection_3">
+          <path
+             d="M 72.326751 19.85  L 72.326751 10.814286  "
+             clip-path="url(#p7bc0d837ed)"
+             style="fill: none; stroke: #0000ff; stroke-width: 1.5"
+             id="path28234" />
+        </g>
+        <g
+           id="LineCollection_4">
+          <path
+             d="M 94.284917 19.85  L 94.284917 10.814286  "
+             clip-path="url(#p7bc0d837ed)"
+             style="fill: none; stroke: #0000ff; stroke-width: 1.5"
+             id="path28237" />
+        </g>
+        <g
+           id="patch_5">
+          <path
+             d="M 17.431335 19.85  L 105.264 19.85  "
+             style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"
+             id="path28246" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <defs
+     id="defs28257">
+    <clipPath
+       id="p7bc0d837ed">
+      <rect
+         x="17.431335"
+         y="7.2"
+         width="87.832665"
+         height="12.65"
+         id="rect28254" />
+    </clipPath>
+  </defs>
+</svg>
